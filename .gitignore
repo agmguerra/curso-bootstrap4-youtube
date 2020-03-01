@@ -10,5 +10,6 @@ node_modules/bootstrap/scss/vendor
 !node_modules/bootstrap/scss/_variables.scss
 node_modules/jquery
 node_modules/popper.js
+node_modules/font-awesome
 
 
